@@ -32,6 +32,9 @@ This project can also be download entirely as a zip file in: https://mega.nz/fol
 # Authors contact
 
 Mayara C. O. Caldeira: mayarac.ortega@gmail.com
+
 Raissa M. Baldez: raissa.baldez@ig.ufpa.br
+
 Tais de Paula A. P. Oliveira: tais.de.paula.a.p.oliveira@gmail.com
+
 Jose J. S. de Figueiredo: jadsomjose@gmail.com
